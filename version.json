@@ -1,6 +1,6 @@
 {
-  "esp_version": "1.0.9",
+  "esp_version": "1.0.10",
   "esp_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/latest/download/firmware.bin",
-  "nextion_version": "1.0.5",
+  "nextion_version": "1.0.6",
   "nextion_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/latest/download/nextion.tft"
 }
