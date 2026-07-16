@@ -1,8 +1,8 @@
 {
-  "esp_version": "1.0.13",
-  "esp_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/download/ota-1.0.13-nextion-1.0.15-20260716-151355/firmware.bin",
-  "nextion_version": "1.0.15",
-  "nextion_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/download/ota-1.0.13-nextion-1.0.15-20260716-151355/nextion.tft",
-  "esp_sha256": "80bd46b3d64ac832df3b560bb56e46e893cd11f7ba9c586f073f2350e01eb5ea",
+  "esp_version": "1.0.14",
+  "esp_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/download/ota-1.0.14-nextion-1.0.16-20260716-151551/firmware.bin",
+  "nextion_version": "1.0.16",
+  "nextion_url": "https://github.com/adlatk/kitronic-oneboard-updates/releases/download/ota-1.0.14-nextion-1.0.16-20260716-151551/nextion.tft",
+  "esp_sha256": "7a8bec3e601798c53cda94d3b5cc38dd35c234abca2721673251ecc2fd58a0a7",
   "nextion_sha256": "d438f73929bcb92730d4103ba3a02609b92613fc3704e6ee2689147aee7d62df"
 }
